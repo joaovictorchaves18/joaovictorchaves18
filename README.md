@@ -1,8 +1,13 @@
-👋 Oi, eu sou @joaovictorchaves1
-👀 Estou interessado em html, cs
-🌱 Atualmente estou aprendendo python e jav
-💞️ Estou procurando colaborar em IoT e c+
-📫 Como entrar em contato comigo no meu instagram _jv.chave
+👋 Oi, eu sou @joaovictorchaves18
+ 
+ 👀 Estou interessado em html, cs
+ 
+ 🌱 Atualmente estou aprendendo python e jav
+ 
+ 💞️ Estou procurando colaborar em IoT e c++
+ 
+📫 Como entrar em contato comigo no meu instagram _jv.chaves
+
 ⚡ Curiosidade: sou técnico em marketing
 <!---
 joaovictorchaves18/joaovictorchaves18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
